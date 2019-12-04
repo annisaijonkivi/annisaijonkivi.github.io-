@@ -72,7 +72,7 @@ nav ul li:hover ul {
 }
 
 .content h1, h2, h3, p {
-  font-color; orange;
+  color: orange;
   padding: 10px;
 }
 
