@@ -17,11 +17,11 @@ body {
   padding-bottom: 45px;
 }
 
-.content h1, h2, h3, {
+.content h1, h2, h3 {
  color: yellow;
 }
 
-.content p, {
+.content p {
  color: fff;
 }
 
