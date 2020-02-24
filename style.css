@@ -9,10 +9,19 @@ body {
   background-size: cover;
   height: 100%;
 }
-.content h1, h2, h3, {
- color: orange;
+
+.content {
+  width: 900px;
+  background-color: rgba(230,230,230,0.7);
+  margin: 37px auto;
+  padding-bottom: 45px;
 }
+
+.content h1, h2, h3, {
+ color: yellow;
+}
+
 .content p, {
- color: white;
+ color: fff;
 }
 
