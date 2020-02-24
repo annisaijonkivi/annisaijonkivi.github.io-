@@ -9,3 +9,10 @@ body {
   background-size: cover;
   height: 100%;
 }
+.content h1, h2, h3, {
+ color: orange;
+}
+.content p, {
+ color: white;
+}
+
